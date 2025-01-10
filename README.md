@@ -53,7 +53,7 @@ chatapp/
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/obaidullah72/chatapp_ui_fullapp.git
+   git clone https://github.com/obaidullah72/chatapp.git
    cd chatapp
    ```
 
@@ -113,4 +113,5 @@ For any questions or suggestions, feel free to reach out:
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=obaidullah72&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=obaidullah72&label=Visitors&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
