@@ -228,6 +228,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
         email: _emailController.text,
         password: _passController.text,
       );
+      //
       await userCredential.user!.updateDisplayName(_nameController.text);
       await userCredential.user!.reload();
       await _firestore.collection('users').doc(userCredential.user!.uid).set({
