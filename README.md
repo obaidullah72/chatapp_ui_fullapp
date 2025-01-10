@@ -53,7 +53,7 @@ chatapp/
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/obaidullah72/chatapp.git
+   git clone https://github.com/obaidullah72/chatapp_ui_fullapp.git
    cd chatapp
    ```
 
